@@ -1,0 +1,41 @@
+List<Map> _books = [
+    {
+      'id': 100,
+      'title': 'Flutter Basics',
+      'author': 'David John'
+    },
+    {
+      'id': 101,
+      'title': 'Flutter Basics',
+      'author': 'David John'
+    },
+    {
+      'id': 102,
+      'title': 'Git and GitHub',
+      'author': 'Merlin Nick'
+    }
+  ];
+  int _currentSortColumn = 0;
+  bool _isSortAsc = true;
+@override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      home: Scaffold(
+        appBar: AppBar(
+          title: Text('DataTable Demo'),
+        ),
+        body: ListView(
+          children: [
+            _createDataTable()
+          ],
+        ),
+      ),
+    );
+  }
+.builder(
+                          controller: ScrollController(initialScrollOffset: 3),
+                          itemCount: snapshot.data!.length,
+                          itemBuilder: (context, index) {
+                            return Center(
+                                child: Text(snapshot.data![index].start));
+                          }),
