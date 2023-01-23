@@ -17,6 +17,9 @@ The application will be used by members. It contains a Slot Booking screen, a My
 
 ## Snapshots
 
+![alt text](https://github.com/WasiqMemon/FitnessPulse/blob/main/images/mob_profile.png)
+
+
 ## Tech Stack
 - ASP.NET
 - Flutter
