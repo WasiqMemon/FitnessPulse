@@ -9,11 +9,11 @@ Gym is an important part of daily routine for most people. However, sometimes gy
 
 ## Web Application
 
-The application will be accesible by admin. It contains a dashboard, slot management page, and an appointments page. On dashboard, admin can look at the new members who have signed up recently and the gender ratio chart. On Slot management page, admin can view, create, and delete slots. Lastly, on Appointments page, admin can check which slots have been booked and names of the members who have booked those slots. 
+The application will be accesible by admin. It contains a Dashboard, a Slot Management page, and an Appointments page. On Dashboard, admin can look at the new members who have signed up recently and the gender ratio chart. On Slot Management page, admin can view, create, and delete slots. Lastly, on Appointments page, admin can check which slots have been booked and names of the members who have booked those slots. 
 
 ## Mobile Application 
 
-The application will be used by members. It contains Slot Booking screen, My Slots screen and My Profile screen. On Slot Booking screen, member can view and book the slots. On My Slots screen, member can view booked slots for each day. Lastly, on My Profile screen, member can view his registered details.
+The application will be used by members. It contains a Slot Booking screen, a My Slots screen and a My Profile screen. On Slot Booking screen, member can view and book the slots. On My Slots screen, member can view booked slots for each day. Lastly, on My Profile screen, member can view his registered details.
 
 ## Snapshots
 
