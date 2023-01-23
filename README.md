@@ -14,6 +14,7 @@ The application will be accesible by admin. It contains a Dashboard, a Slot Mana
 ## Snapshots
 
 ![alt text](https://github.com/WasiqMemon/FitnessPulse/blob/main/images/web_dashboard.png)
+![alt text](https://github.com/WasiqMemon/FitnessPulse/blob/main/images/web_slots.png)
 
 ## Mobile Application 
 
